@@ -1,0 +1,7 @@
+/tmp/nzh2mIgg5c.o
+Enter the value of  nos
+45 3
+the sum of the numbers is =48
+the difference  of the numbers is =42
+the multiplication of the numbers is =135
+the division of the numbers is =15

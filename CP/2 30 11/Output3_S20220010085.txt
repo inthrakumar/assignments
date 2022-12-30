@@ -1,0 +1,26 @@
+G:\inthra kumar\CP\1 21 11>gcc Program3_S20220010085.C
+
+G:\inthra kumar\CP\1 21 11>A
+
+enter the number a:
+12
+
+enter the number b:
+34
+
+enter the number c:
+25
+
+The numbers before performing all the operations:
+a:12
+
+b:34
+
+c:25
+
+The numbers after performing all the operations:
+a:11
+
+b:33
+
+c:5

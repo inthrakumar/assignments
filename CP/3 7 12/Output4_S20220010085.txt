@@ -1,0 +1,7 @@
+PS F:\coding\3 7 12> & .\"Program4_S20220010085.exe"      
+Enter the subject 1 marks(100): 89
+Enter the subject 2 marks(100): 85
+Enter the subject 3 marks(100): 91
+Total marks:265.000000
+The average:88.333336
+Your grade is : E

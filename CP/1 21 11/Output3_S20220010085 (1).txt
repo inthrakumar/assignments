@@ -1,0 +1,6 @@
+/tmp/nzh2mIgg5c.o
+ENTER THE BASE OF THE TRAINGLE
+12
+ENTER THE height OF THE TRAINGLE
+5
+the hypotenuse of the triangle is= 13

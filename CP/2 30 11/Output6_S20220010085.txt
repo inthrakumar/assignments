@@ -1,0 +1,6 @@
+G:\inthra kumar\CP\1 21 11>gcc Program6_S20220010085.c
+
+G:\inthra kumar\CP\1 21 11>a
+enter the height from which ball is released(in m):10
+
+the total distance covered by ball when touching the floor third time(in m )=16.250000

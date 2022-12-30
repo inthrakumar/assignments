@@ -1,0 +1,14 @@
+absolute path of c_3.c  =MULTI LEVEL/Files/User1/User2/User3/c_3.c
+relative path of c_3.c =User3/c_3.c
+
+absolute path of pyt3 =MULTI LEVEL/Files/User1/User2/User3/pyt3.py
+relative path of pyt3 =User3/pyt3.py
+
+absolute path of word3 =MULTI LEVEL/Files/User1/User2/User3/word3.docx
+relative path of word3 =User3/word3.docx
+
+absolute path of excel3 =MULTI LEVEL/Files/User1/User2/User3/excel3.xlsx
+relative path of excel3 =User3/excel3.xlsx
+
+absolute path of pathfile3m =MULTI LEVEL/Files/User1/User2/User3/pathfile3m.txt
+relative path of pathfile3m =User3/pathfile3m.txt

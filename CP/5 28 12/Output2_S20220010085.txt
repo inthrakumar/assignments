@@ -1,0 +1,17 @@
+PS F:\ASSIGNMENT\CP\5 28 12> gcc Program2_S20220010085.c
+PS F:\ASSIGNMENT\CP\5 28 12> ./a.exe
+Enter the ten elements for array: 
+23
+11
+5
+78
+23
+56
+99
+37
+45
+82
+The sorted array is  
+5 11 23 23 37 45 56 78 82 99
+The number of comparisons done are :45
+The number of swaps done :12

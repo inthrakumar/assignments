@@ -1,0 +1,6 @@
+﻿/tmp/nzh2mIgg5c.o
+ENTER THE first no OF THE sequence
+1
+ENTER THE second no OF THE sequence
+5
+the sum of the first 100 terms of the sequence=19900

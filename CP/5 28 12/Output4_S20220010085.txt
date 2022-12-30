@@ -1,0 +1,17 @@
+PS F:\ASSIGNMENT\CP\5 28 12> gcc Program4_S20220010085.c
+PS F:\ASSIGNMENT\CP\5 28 12> ./a.exe
+Enter the elements of the 3x3 matrix:
+1
+2
+-1
+2
+1
+2
+-1
+2
+1
+The entered matrix is non-singular
+The inverse of the matrix is:
+0.19  0.25  -0.31
+0.25  -0.00  0.25
+-0.31  0.25  0.19

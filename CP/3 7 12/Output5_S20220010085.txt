@@ -1,0 +1,5 @@
+PS F:\coding\3 7 12> & .\"Program5_S20220010085.exe"      
+Enter the total distance travelled (in kms):    50.5
+The base fare is 393.000000
+The service fare is 39.299999
+The total fare is 432.299988

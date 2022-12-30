@@ -1,0 +1,4 @@
+PS F:\coding\3 7 12> gcc Program1_S20220010085.c
+PS F:\coding\3 7 12> ./a.exe
+Enter the character:    a
+The entered character is a vowel

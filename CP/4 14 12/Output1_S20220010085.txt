@@ -1,0 +1,5 @@
+PS F:\ASSIGNMENT\CP\4 14 12> gcc Program1_S20220010085.c
+PS F:\ASSIGNMENT\CP\4 14 12> ./a.exe
+Enter the String which is less than 10 characters:
+abcd! 2
+The reversed string is 2 !dcba

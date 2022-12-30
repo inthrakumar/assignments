@@ -1,0 +1,16 @@
+G:\inthra kumar\CP\1 21 11>gcc Program5_S20220010085.c
+
+G:\inthra kumar\CP\1 21 11>a
+A=5, B=10, C=15
+
+result after executing BITWISE AND ON A AND B:0
+
+result after executing BITWISE OR ON A AND B:15
+
+result after executing BITWISE xclusive or  ON B AND C:5
+
+result after executing left shift on A by 2:20
+
+result after executing right sihft ON  BY 4:0
+
+result after finding one's complement of C:-16

@@ -1,0 +1,5 @@
+PS F:\ASSIGNMENT\CP\5 28 12> gcc Program5_S20220010085.c
+PS F:\ASSIGNMENT\CP\5 28 12> ./a.exe
+Enter the string of character more than 8 and less than 24 characters:inthraokumanrnon%%o1n
+Enter the smaller string of length 1 to 4 :on
+The number of times of occurence of 'on' as subsequence in 'inthraokumanrnon%%o1n' is 3

@@ -1,0 +1,16 @@
+G:\inthra kumar\CP\1 21 11>gcc Program1_S20220010085.c
+
+G:\inthra kumar\CP\1 21 11>a
+
+ enter the character:a
+
+ enter the integer:12
+
+ enter the float number:12.78
+
+ enter a string of  size less than of 13:i_am_k
+the entered values
+the entered integer is :12
+the entered float number is :12.780000
+the entered character is :a
+the entered string is :i_am_k

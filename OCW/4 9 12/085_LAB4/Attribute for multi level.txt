@@ -1,0 +1,125 @@
+Folder = User1
+word1
+NAME:word1.docx
+CREATED:09 December 2022,14:52:10
+SIZE:12.8KB
+EXTENSION:.docx
+absolute path of word1 =MULTI LEVEL/Files/User1/word1.docx
+relative path of word1:User1/word1.docx
+
+c_1
+NAME:c_1.c
+CREATED:09 December 2022,14:54:49
+SIZE:1KB
+EXTENSION:.c
+absolute path of c_1.c  =MULTI LEVEL/Files/User1/c_1.c
+relative path of c_1:User1/c_1.c
+
+pyt1.py
+NAME:pyt1.py
+CREATED:09 December 2022,14:59:49
+SIZE:1KB
+EXTENSION:.py
+absolute path of pyt1 =MULTI LEVEL/Files/User1/pyt1.py
+relative path of pyt1:User1/pyt1.py
+
+excel1
+NAME:excel1.xlsx
+CREATED:09 December 2022,15:04:49
+SIZE:7KB
+EXTENSION:.xlsx
+absolute path of excel1 =MULTI LEVEL/Files/User1/excel1.xlsx
+relative path of excel1:User1/excel.xlsx
+
+pathfile1m
+NAME:pathfile1m.txt
+CREATED:09 December 2022,15:14:45
+SIZE:1KB
+absolute path of pathfile1m =MULTI LEVEL/Files/User1/pathfile1m.
+relative path of pathfile1m:User1/pathfile1m.txt
+
+Folder:User2
+word2
+NAME:word2.docx
+CREATED:09 December 2022,14:53:10
+SIZE:13.8KB
+EXTENSION:.docx
+absolute path of word2 =MULTI LEVEL/Files/User1/User2/word2.docx
+relative path of word2:User2/word2.docx
+
+c_2
+NAME:c_2.c
+CREATED:09 December 2022,14:56:49
+SIZE:1KB
+EXTENSION:.c
+absolute path of c_2.c  =MULTI LEVEL/Files/User1/User2/c_2.c
+relative path of c_2:User2/c_2.c
+
+pyt2
+NAME:pyt2.py
+CREATED:09 December 2022,15:00:49
+SIZE:1KB
+EXTENSION:.py
+absolute path of pyt2 =MULTI LEVEL/Files/User1/User2/pyt2.py
+relative path of pyt2:User2/pyt2.py
+
+pathfile2m
+NAME:pathfile2m.txt
+CREATED:09 December 2022,15:14:45
+SIZE:1KB
+absolute path of pathfile2m =MULTI LEVEL/Files/User1/User2/pathfile2m.txt
+relative path of pathfile2m:User2/pathfile2m.txt
+
+excel2
+NAME:excel2.xlsx
+CREATED:09 December 2022,15:15:30
+SIZE:7KB
+EXTENSION:.xlsx
+absolute path of excel2 =MULTI LEVEL/Files/User1/User2/excel2.xlsx
+relative path of excel2:User2/excel2.xlsx
+
+Folder:User3
+word3
+NAME:word3.docx
+CREATED:09 December 2022,14:59:10
+SIZE:13.8KB
+EXTENSION:.docx
+absolute path of word3 =MULTI LEVEL/Files/User1/User2/User3/word3.docx
+relative path of word3:User3/word3.docx
+
+c_3
+NAME:c_3.c
+CREATED:09 December 2022,14:57:49
+SIZE:1KB
+EXTENSION:.c
+absolute path of c_3.c  =MULTI LEVEL/Files/User1/User2/User3/c_3.c
+relative path of c_3:User3/c_3.c
+
+pyt3
+NAME:pyt3.py
+CREATED:09 December 2022,15:01:49
+SIZE:1KB
+EXTENSION:.py
+absolute path of pyt3 =MULTI LEVEL/Files/User1/User2/User3/pyt3.py
+relative path of pyt3:User3/pyt3.py
+
+pathfile3m
+NAME:pathfile3m.txt
+CREATED:09 December 2022,15:15:45
+SIZE:1KB
+absolute path of pathfile3m =MULTI LEVEL/Files/User1/User2/User3/pathfile3m.txt
+relative path of pathfile3m:User3/pathfile3m.txt
+
+excel3
+NAME:excel3.xlsx
+CREATED:09 December 2022,15:03:30
+SIZE:7KB
+EXTENSION:.xlsx
+absolute path of excel3 =MULTI LEVEL/Files/User1/User2/User3/excel3.xlsx
+relative path of excel3:User3/excel3.xlsx
+
+
+
+
+
+

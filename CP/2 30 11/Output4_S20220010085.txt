@@ -1,0 +1,32 @@
+G:\inthra kumar\CP\1 21 11>gcc Program4_S20220010085.c
+
+G:\inthra kumar\CP\1 21 11>a
+
+Enter the value of P:
+12
+
+Enter the value of Q:
+45
+
+Enter the value of R :
+2.25
+
+Enter the value of S:
+7.65
+
+The answer for  X = P + Q / 4 *  S/ 3 + Q:
+85.050003
+
+The answer for  X = R + S / 4 * Q / 3 + S:
+38.587502
+
+The answer for   X = (int) R / P * Q / 3:
+0
+
+ The answer for x=  p/ q * q %5% 3:0.000000
+
+The answer for  x = 10 - 5 - 7 / 4 * 4:
+1.000000
+
+The answer for  x= 24/(1 + 2%3 + 4/5 + 6 + 31%8):
+1.000000

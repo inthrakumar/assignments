@@ -1,0 +1,2 @@
+PS F:\ASSIGNMENT\CP\4 14 12> ./a.exe
+The sum of first ten prime numbers is 129

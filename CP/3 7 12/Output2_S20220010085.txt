@@ -1,0 +1,4 @@
+PS F:\coding\3 7 12> & .\"Program2_S20220010085.exe"      
+Enter the marks:        78
+Your grade is : Above Average
+PS F:\coding\3 7 12> 

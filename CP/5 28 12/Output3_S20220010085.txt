@@ -1,0 +1,6 @@
+PS F:\ASSIGNMENT\CP\4 14 12> gcc Program3_S20220010085.c
+PS F:\ASSIGNMENT\CP\4 14 12> ./a.exe
+The x co-ordinate of the point: 12
+The y co-ordinte of the point: 15
+The point is nearest to (10,15) on the line 
+The shortest distance is 2.00 units

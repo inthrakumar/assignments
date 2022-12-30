@@ -1,0 +1,4 @@
+PS F:\ASSIGNMENT\CP\4 14 12> gcc Program2_S20220010085.c
+PS F:\ASSIGNMENT\CP\4 14 12> ./a.exe
+Enter the term of fibonacci series you want to print: 11
+The fibonacci term at 11 place is 55

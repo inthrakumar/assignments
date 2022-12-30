@@ -1,0 +1,5 @@
+Enter the three nos a,b,c in order:
+2
+3
+4
+The value of the expression is:217651008

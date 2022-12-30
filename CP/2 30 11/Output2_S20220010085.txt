@@ -1,0 +1,9 @@
+G:\inthra kumar\CP\1 21 11>gcc Program2_S20220010085.c
+
+G:\inthra kumar\CP\1 21 11>a
+Enter the 1 no:2
+Enter the 2 no:34
+Enter the 3 no:71
+Enter the number need to be subtracted:28
+The sum before subtraction:107
+The sum after subtraction79

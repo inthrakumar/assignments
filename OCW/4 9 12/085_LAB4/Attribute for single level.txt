@@ -1,0 +1,139 @@
+word1
+NAME:word1.docx
+CREATED:09 December 2022,14:52:10
+SIZE:12.8KB
+EXTENSION:.docx
+absolute path of word1:SINGLE LEVEL/word1.docx
+relative path of word1:SINGLE LEVEL/word1.docx
+
+word2
+NAME:word2.docx
+CREATED:09 December 2022,14:53:10
+SIZE:13.8KB
+EXTENSION:.docx
+absolute path of word2:SINGLE LEVEL/word2.docx
+relative path of word2:SINGLE LEVEL/word2.docx
+
+word3
+NAME:word3.docx
+CREATED:09 December 2022,14:53:56
+SIZE:14.2KB
+EXTENSION:.docx
+absolute path of word3:SINGLE LEVEL/word3.docx
+relative path of word3:SINGLE LEVEL/word3.docx
+
+c_1
+NAME:c_1.c
+CREATED:09 December 2022,14:54:49
+SIZE:1KB
+EXTENSION:.c
+absolute path of c_1:SINGLE LEVEL/c_1.c
+relative path of c_1:SINGLE LEVEL/c_1.c
+
+c_2
+NAME:c_2.c
+CREATED:09 December 2022,14:56:49
+SIZE:1KB
+EXTENSION:.c
+absolute path of c_2:SINGLE LEVEL/c_2.c
+relative path of c_2:SINGLE LEVEL/c_2.c
+
+c_3
+NAME:c_3.c
+CREATED:09 December 2022,14:57:49
+SIZE:1KB
+EXTENSION:.c
+absolute path of c_3:SINGLE LEVEL/c_3.c
+relative path of c_3:SINGLE LEVEL/c_3.c
+
+pyt1.py
+NAME:pyt1.py
+CREATED:09 December 2022,14:59:49
+SIZE:1KB
+EXTENSION:.py
+absolute path of pyt1:SINGLE LEVEL/pyt1.py
+relative path of pyt1:SINGLE LEVEL/pyt1.
+
+pyt2
+NAME:pyt2.py
+CREATED:09 December 2022,15:00:49
+SIZE:1KB
+EXTENSION:.py
+absolute path of pyt2:SINGLE LEVEL/pyt2.py
+relative path of pyt2:SINGLE LEVEL/pyt2.py
+
+pyt3
+NAME:pyt3.py
+CREATED:09 December 2022,15:01:03
+SIZE:1KB
+EXTENSION:.py
+absolute path of pyt3:SINGLE LEVEL/pyt3.py
+relative path of pyt3:SINGLE LEVEL/pyt3.py
+
+txt1
+NAME:txt1.txt
+CREATED:09 December 2022,15:01:49
+SIZE:1KB
+EXTENSION:.txt
+absolute path of txt1.txt:SINGLE LEVEL/txt1.txt
+relative path of txt1.txt:SINGLE LEVEL/txt1.txt
+
+txt2
+NAME:txt2.txt
+CREATED:09 December 2022,15:03:49
+SIZE:1KB
+EXTENSION:.txt
+absolute path of txt2.txt:SINGLE LEVEL/txt2.txt
+relative path of txt2.txt:SINGLE LEVEL/txt2.txt
+
+pathfile
+NAME:pathfile.txt
+CREATED:09 December 2022,15:12:49
+SIZE:1KB
+EXTENSION:.txt
+absolute path of pathfile.txt:SINGLE LEVEL/pathfile.txt
+relative path of pathfile.txt:SINGLE LEVEL/pathfile.txt
+
+excel1
+NAME:excel1.xlsx
+CREATED:09 December 2022,15:14:49
+SIZE:7KB
+EXTENSION:.xlsx
+absolute path of excel1.xlsx:SINGLE LEVEL/excel1.xlsx
+relative path of excel1.xlsx:SINGLE LEVEL/excel1.xlsx
+
+excel2
+NAME:excel2.xlsx
+CREATED:09 December 2022,15:15:30
+SIZE:7KB
+EXTENSION:.xlsx
+absolute path of excel2.xlsx:SINGLE LEVEL/excel2.xlsx
+relative path of excel2.xlsx:SINGLE LEVEL/excel2.xlsx
+
+excel3
+NAME:excel3.xlsx
+CREATED:09 December 2022,15:20:49
+SIZE:7KB
+EXTENSION:.xlsx
+absolute path of excel3.xlsx:SINGLE LEVEL/excel3.xlsx
+relative path of excel3.xlsx:SINGLE LEVEL/excel3.xlsx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

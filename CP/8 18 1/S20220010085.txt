@@ -1,0 +1,36 @@
+Output 1:
+Enter  the elements of the 1st 2x2 matrix:
+54
+21
+87
+112
+Enter the elements of the 2nd 2x2 matrix:
+116
+87
+90
+23
+The sum of two matrices is :
+170 108
+177 135
+
+Output 2:
+Enter the  string to be copied:
+inthra kumar
+The copied string is:inthra kumar
+
+Output 3:
+Enter the  string to be copied:inthra kumar
+The copied string is:inthra kumar
+
+Output 4:
+Enter the two numbers:
+10
+20
+The numbers before swap is 10 ,20
+The numbers after swap is 20 ,10
+
+Output 5:
+Enter the two strings to compare:
+int h
+int
+They are not same
